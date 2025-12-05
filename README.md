@@ -27,14 +27,9 @@ chmod +x spaghetti_song.sh
 
 ## Usage
 
-Run the main show:
+Run the show:
 ```bash
 ./spaghetti_song.sh
-```
-
-Test audio system:
-```bash
-./test_audio.sh
 ```
 
 ## How It Works
